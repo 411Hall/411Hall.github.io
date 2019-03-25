@@ -12,7 +12,7 @@ Full disclosure I am not a penetration tester and  I failed my OSCP exam twice b
 # Course Overview
 
 ## Lab Time
-After years of wanting to do OSCP I got lucky and my employer paid for the full 90 days lab time. This allowed me to put alot of time into the lab network and own all but 5 boxes. I was putting in 4-5 hours a day and a bit more at the weekend but because the labs are so fun it didn't really feel like work. That’s not to say it was easy at all but the effort I was putting in was being rewarded every time I got mself another root flag. 
+After years of wanting to do OSCP I got lucky and my employer paid for the full 90 days lab time. This allowed me to put alot of time into the lab network and own all but 5 boxes. I was putting in 4-5 hours a day and a bit more at the weekend but because the labs are so fun it didn't really feel like work. That’s not to say it was easy at all but the effort I was putting in was being rewarded every time I got myself another root flag. 
 
 After hearing about the Offensive Security labs for the last few years I got a bit too excited and as soon as I got my VPN access and jumped straight into the lab network without reading any of the documentation. I figured I had done a few CTF's\Vulnhub images in the past so I was probably ready for the labs, I was wrong.  After a week I had a few of the really easy boxes but found myself getting stuck alot and with no real idea of what to do next. So I stepped back and decided to take a more methodical approach which started with reading the material and trying the techniques in the lab network. 
 
